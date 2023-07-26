@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v7.0": {
       "ApiConsoleApplication/1.0.0": {
         "dependencies": {
-          "BrasilAPI": "1.0.6"
+          "BrasilAPI": "1.0.6",
+          "MySqlConnector": "2.3.0-beta.2"
         },
         "runtime": {
           "ApiConsoleApplication.dll": {}
@@ -45,6 +46,14 @@
           "System.Threading": "4.3.0"
         }
       },
+      "Microsoft.Extensions.Logging.Abstractions/7.0.0": {
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -52,6 +61,17 @@
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0",
           "System.Runtime": "4.3.0"
+        }
+      },
+      "MySqlConnector/2.3.0-beta.2": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/MySqlConnector.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.3.0.0"
+          }
         }
       },
       "NETStandard.Library/1.6.1": {
@@ -848,6 +868,13 @@
       "path": "microsoft.csharp/4.3.0",
       "hashPath": "microsoft.csharp.4.3.0.nupkg.sha512"
     },
+    "Microsoft.Extensions.Logging.Abstractions/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kmn78+LPVMOWeITUjIlfxUPDsI0R6G0RkeAMBmQxAJ7vBJn4q2dTva7pWi65ceN5vPGjJ9q/Uae2WKgvfktJAw==",
+      "path": "microsoft.extensions.logging.abstractions/7.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
       "serviceable": true,
@@ -868,6 +895,13 @@
       "sha512": "sha512-9ZQKCWxH7Ijp9BfahvL2Zyf1cJIk8XYLF6Yjzr2yi0b2cOut/HQ31qf1ThHAgCc3WiZMdnWcfJCgN82/0UunxA==",
       "path": "microsoft.win32.primitives/4.3.0",
       "hashPath": "microsoft.win32.primitives.4.3.0.nupkg.sha512"
+    },
+    "MySqlConnector/2.3.0-beta.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E8vcxmSf8iyfAHPGSujXrUEAD65Ir4cV67dyRFRJC57elizs2dMeg6+tEwimVJnro82dYRJHF1xgzsO3qvo6lQ==",
+      "path": "mysqlconnector/2.3.0-beta.2",
+      "hashPath": "mysqlconnector.2.3.0-beta.2.nupkg.sha512"
     },
     "NETStandard.Library/1.6.1": {
       "type": "package",

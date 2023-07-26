@@ -16,3 +16,5 @@ C:\Users\joaos\RiderProjects\ApiConsoleApplication\ApiConsoleApplication\obj\Deb
 C:\Users\joaos\RiderProjects\ApiConsoleApplication\ApiConsoleApplication\obj\Debug\net7.0\ApiConsoleApplication.pdb
 C:\Users\joaos\RiderProjects\ApiConsoleApplication\ApiConsoleApplication\obj\Debug\net7.0\ApiConsoleApplication.genruntimeconfig.cache
 C:\Users\joaos\RiderProjects\ApiConsoleApplication\ApiConsoleApplication\obj\Debug\net7.0\ref\ApiConsoleApplication.dll
+C:\Users\joaos\RiderProjects\ApiConsoleApplication\ApiConsoleApplication\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\joaos\RiderProjects\ApiConsoleApplication\ApiConsoleApplication\bin\Debug\net7.0\MySqlConnector.dll

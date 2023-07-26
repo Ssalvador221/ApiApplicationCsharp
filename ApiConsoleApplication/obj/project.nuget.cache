@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "1ScHi98cwJBHVzF+Y0tILXDpFR+FDLsJ/dD62XfXb1/eIQBLqmWKSgLLsByEpIkKECNdqb0LbS7M4ehbfr446w==",
+  "dgSpecHash": "xaPqZenAG86u5iiKIPP2Ls7/G16fcDYiUC0VO5VsPc0rWgJZx2vTJbt7fBOetA7Efo2c5JuQlDd722rMyESYMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\joaos\\RiderProjects\\ApiConsoleApplication\\ApiConsoleApplication\\ApiConsoleApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaos\\.nuget\\packages\\brasilapi\\1.0.6\\brasilapi.1.0.6.nupkg.sha512",
     "C:\\Users\\joaos\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\joaos\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\joaos\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\joaos\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\joaos\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\joaos\\.nuget\\packages\\mysqlconnector\\2.3.0-beta.2\\mysqlconnector.2.3.0-beta.2.nupkg.sha512",
     "C:\\Users\\joaos\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\joaos\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
     "C:\\Users\\joaos\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
